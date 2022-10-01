@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "False Information Detection", "False Information Detection\False Information Detection.csproj", "{4D08B39E-57EA-4EC8-B224-63F9EB0DB341}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D08B39E-57EA-4EC8-B224-63F9EB0DB341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D08B39E-57EA-4EC8-B224-63F9EB0DB341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D08B39E-57EA-4EC8-B224-63F9EB0DB341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D08B39E-57EA-4EC8-B224-63F9EB0DB341}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F95B235-0688-48F8-8D28-A31B2A15DF2F}
+	EndGlobalSection
+EndGlobal
